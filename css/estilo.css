@@ -1,0 +1,54 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+  text-align: justify;
+}
+
+#datos{
+  text-align: center;
+}
+
+h1, h2, h3{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+div{
+  margin: 2vw;
+  padding: 2vw;
+  border-radius: 2vw;
+}
+
+.clase_contenedores{
+  background-color: #233849;
+  color: antiquewhite;
+}
+
+#contenedor-principal{
+  background-color: rgb(196, 196, 196);
+}
+
+#imagen_perfil{
+  width: 20vw;
+}
+
+a{
+  text-decoration: none;
+  color: darkblue;
+}
+
+#menu{
+  text-align: center;
+  background-color: rgb(243, 243, 243);
+  color: rgb(0, 0, 0);
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0%;
+}
+
+/* font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Square Peg', cursive; */
